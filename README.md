@@ -1,2 +1,2 @@
 # selectionsortproject
-Veri Yapıları ve Algoritmalar Dersi Proje 1
+Veri Yapıları ve Algoritmalar Proje 1
